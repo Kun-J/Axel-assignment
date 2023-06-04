@@ -1,0 +1,16 @@
+{
+  "name": "work",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Code.js",
+  "scripts": {
+    "test": "find"
+  },
+  "author": "Kunal Jha",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.3",
+    "web3": "^1.10.0"
+  }
+}
